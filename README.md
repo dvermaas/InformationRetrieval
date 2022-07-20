@@ -2,7 +2,7 @@
 
 ## Description
 
-Uva bsc Artificial Intelligence project, which aims to implement numerous search algorithms. Final Grade: 9.6
+Uva bsc Artificial Intelligence project (2022), which aims to implement numerous search algorithms. Final Grade: 9.6
 
 ## Dataset Link
 
